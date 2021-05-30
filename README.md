@@ -13,12 +13,9 @@ Coming soon!
   - [Dependencies](#dependencies)
   - [Usage](#usage)
     - [Text-to-Image Retrieval Model](#text-to-image-retrieval-model)
-      - [Installation](#installation)
     - [Bottom-up Detector Model](#bottom-up-detector-model)
-      - [Installation](#installation-1)
     - [Dialog Generation Model](#dialog-generation-model)
-      - [Installation](#installation-2)
-  - [Citaition](#citaition)
+  - [Citation](#citation)
   - [Acknowledgment](#acknowledgment)
 
 ## Dependencies
@@ -43,7 +40,7 @@ Please refer to [detector_model/README.md](detector_model/README.md)
 
 Please refer to [dialog_model/README.md](dialog_model/README.md)
 
-## Citaition
+## Citation
 
 If you find this paper helps your research, please kindly consider citing our paper in your publications.
 
