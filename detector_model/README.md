@@ -1,6 +1,6 @@
 # Bottom-up Attention Detector
 
-The code for retrieval model is implemented as a fork of "[py-bottom-up-attention](https://github.com/airsplay/py-bottom-up-attention)". The object detector is pre-trained on Visual Genome and can extract fine-grained visual (bbox) features and correlated object tags.
+The object detector is pre-trained on Visual Genome and can extract fine-grained visual (bbox) features and correlated object tags.
 
 
 ## Installation
@@ -34,5 +34,5 @@ python demo/demo_oi_for_reddit.py
 
 ## References
 
-More details please refer to the original [README](py-bottom-up-attention_README.md)
+The code for retrieval model is implemented as a fork of "[py-bottom-up-attention](https://github.com/airsplay/py-bottom-up-attention)". More details please refer to their repo, many thanks for their work.
 
