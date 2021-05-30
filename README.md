@@ -8,13 +8,18 @@ Coming soon!
 
 ## Summary
 
-* [Dependencies](#Dependencies)
-* [Usage](#usage)
-    * [Text-to-Image Retrieval Model](#text-to-image-retrieval-model)
-    * [Bottom-up Detector Model](#bottom-up-detector-model)
-    * [Dialog Generation Model](#dialog-generation-model)
-* [Citaition](#citaition)
-* [Acknowledgment](#acknowledgment)
+- [Maria: A Visual Experience Powered Conversational Agent](#maria-a-visual-experience-powered-conversational-agent)
+  - [Summary](#summary)
+  - [Dependencies](#dependencies)
+  - [Usage](#usage)
+    - [Text-to-Image Retrieval Model](#text-to-image-retrieval-model)
+      - [Installation](#installation)
+    - [Bottom-up Detector Model](#bottom-up-detector-model)
+      - [Installation](#installation-1)
+    - [Dialog Generation Model](#dialog-generation-model)
+      - [Installation](#installation-2)
+  - [Citaition](#citaition)
+  - [Acknowledgment](#acknowledgment)
 
 ## Dependencies
 
@@ -36,7 +41,7 @@ Please refer to [retrieval_model/README.md](retrieval_model/README.md)
 
 #### Installation
 
-Please refer to [detector_model/README.md](retrieval_model/README.md)
+Please refer to [detector_model/README.md](detector_model/README.md)
 
 ### Dialog Generation Model
 
