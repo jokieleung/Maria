@@ -33,19 +33,13 @@ Coming soon!
 
 ### Text-to-Image Retrieval Model
 
-#### Installation
-
 Please refer to [retrieval_model/README.md](retrieval_model/README.md)
 
 ### Bottom-up Detector Model
 
-#### Installation
-
 Please refer to [detector_model/README.md](detector_model/README.md)
 
 ### Dialog Generation Model
-
-#### Installation
 
 Please refer to [dialog_model/README.md](dialog_model/README.md)
 
