@@ -847,7 +847,7 @@ def main():
                         help="yaml file for training.")
     parser.add_argument("--test_yaml", default='test.yaml', type=str, required=False,
                         help="yaml file for testing.")
-    parser.add_argument("--val_yaml", default='test.yaml', type=str, required=False, 
+    parser.add_argument("--val_yaml", default='val.yaml', type=str, required=False, 
                         help="yaml file used for validation during training.")
     parser.add_argument("--model_name_or_path", default=None, type=str, required=False,
                         help="Path to pre-trained model or model type.")
