@@ -105,19 +105,19 @@ Each line has a range "line[i]" to "line[i+1]" in the hdf5 file.
 
 Commands:
 
-1. ```shell script
+```shell script
 bash tokenization/tokenize_reddit_bert.bash 
-   ```
+```
    
 
-### Extracting Image Features
+### Build the Image Index
 
 The image pre-processing extracts the image features to build the keys in the retrieval process.
 
 #### Download the Open Images
 
 We will use the [Open Images](https://storage.googleapis.com/openimages/web/index.html) images as candidate images for retrievel.
-Refer to [here](https://github.com/cvdfoundation/open-images-dataset#download-images-with-bounding-boxes-annotations) to download the images first. You can build the image index with the appropriate size (500,000 in our experiments) as needed。
+Refer to [here](https://github.com/cvdfoundation/open-images-dataset#download-images-with-bounding-boxes-annotations) to download the images first. You can build the image index with the appropriate size (500,000 in our experiments) as needed.
 
 If you already have Open Images dataset on disk. Save them as 
 
