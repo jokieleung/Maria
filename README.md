@@ -47,7 +47,7 @@ If you find this paper helps your research, please kindly consider citing our pa
 ```BibTeX
 @inproceedings{liang2021maria,
    title={Maria: A Visual Experience Powered Conversational Agent},
-   author={Liang, Zujie and Hu, Huang and Xu, Can and Chongyang, Tao and Geng, Xiubo and Chen, Danqi and Liang, Fan and Jiang, Daxin},
+   author={Liang, Zujie and Hu, Huang and Xu, Can and Tao, Chongyang and Geng, Xiubo and Chen, Yining and Liang, Fan and Jiang, Daxin},
    booktitle={Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL)},
    year={2021}
 }
