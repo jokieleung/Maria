@@ -35,6 +35,17 @@ Please download the Reddit data from google drive [here](https://drive.google.co
 We will use the [Open Images](https://storage.googleapis.com/openimages/web/index.html) images as candidate images for retrievel.
 Refer to [here](https://github.com/cvdfoundation/open-images-dataset#download-images-with-bounding-boxes-annotations) to download the images first. You can build the image index with the appropriate size (500,000 in our experiments) as needed.
 
+If you already have Open Images dataset on disk. Save them as 
+
+```
+data
+|-- open_images
+    |-- images
+         |-- 14928b4f367c217e.jpg
+         |-- 289d643a8761aa83.jpg
+         |-- ......
+```
+
 ## Usage
 
 ### Text-to-Image Retrieval Model
