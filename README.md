@@ -26,6 +26,15 @@ Coming soon!
 
 - Ubuntu 18.04
 
+## Data
+
+### Reddit Conversation Corpus
+Please download the Reddit data from google drive [here](https://drive.google.com/file/d/1kyfPcbwFwLm5tlaQ4on8e5K7zd-72ZyH/view).
+
+### Download the Open Images
+We will use the [Open Images](https://storage.googleapis.com/openimages/web/index.html) images as candidate images for retrievel.
+Refer to [here](https://github.com/cvdfoundation/open-images-dataset#download-images-with-bounding-boxes-annotations) to download the images first. You can build the image index with the appropriate size (500,000 in our experiments) as needed.
+
 ## Usage
 
 ### Text-to-Image Retrieval Model
@@ -47,7 +56,14 @@ If you find this paper helps your research, please kindly consider citing our pa
 ```BibTeX
 @inproceedings{liang2021maria,
    title={Maria: A Visual Experience Powered Conversational Agent},
-   author={Liang, Zujie and Hu, Huang and Xu, Can and Tao, Chongyang and Geng, Xiubo and Chen, Yining and Liang, Fan and Jiang, Daxin},
+   author={Liang, Zujie and 
+           Hu, Huang and 
+           Xu, Can and 
+           Tao, Chongyang and 
+           Geng, Xiubo and 
+           Chen, Yining and 
+           Liang, Fan and 
+           Jiang, Daxin},
    booktitle={Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL)},
    year={2021}
 }
